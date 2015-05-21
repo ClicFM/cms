@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'haml-rails'
 gem 'pry-rails'
 gem 'decent_exposure'
+gem 'foundation-rails'
 
 gem 'rails', '4.2.1'
 gem 'pg'
